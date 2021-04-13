@@ -1,0 +1,18 @@
+# Binary files
+*.class
+
+# Build directories
+build/
+bin/
+        
+# Development environment
+.gradle/
+.classpath
+.project
+.settings
+.idea/
+*.iml
+
+# 3rd party components 
+lib/
+/bin/
